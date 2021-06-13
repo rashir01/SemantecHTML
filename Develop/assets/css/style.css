@@ -49,6 +49,12 @@ p {
     font-size: 16px;
 }
 
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 footer {
     padding: 30px;
     clear: both;
@@ -78,12 +84,6 @@ footer h2 {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-main {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 .benefits {
