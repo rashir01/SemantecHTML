@@ -1,57 +1,42 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# Homework Guide
 
-## Description
+Each week, your instructor will add instructions for that week’s homework assignment to the class repo and announce that it’s ready. Your instructors and TAs will also provide a demonstration of the homework in the classroom.
 
-This website is optimized for accessibility. It meets the acceptance criteria noted below. 
-In order to view the website you can go to **insert website here**
+## How to Work on Homework
 
-To achieve the acceptance criteria, I used semantics tags such as nav, section, footer, main, and article. 
-I also added comments to the css file and grouped similar classes together. 
+Homework is designed to prepare you for two scenarios that you will encounter as a developer:
 
-## User Story
+* On-the-job tickets or feature requests
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+* Job-seeking coding assessments or take-home assignments
 
-## Acceptance Criteria
+On-the-job ticket homework will provide you with starter code in a folder called `Develop`. You’ll modify or add to this code to complete the homework. Odd-numbered units follow this format.
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+Job-seeking coding assessments do not provide starter code. You’ll build these from scratch. Even-numbered units follow this format.
 
-## Mock-Up
+All of the homework assignments follow agile project management conventions, providing a user story, acceptance criteria, a mock-up demonstrating the application functionality, and review guidelines. 
 
-The following image shows the web application's appearance and functionality:
+### User Story
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+Part of being a developer is putting yourself in the shoes of your audience and imagining their experience with the application you’re creating. 
 
-> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
+A user story, or persona, is a description of an application using natural, non-technical language. Written from the perspective of the application’s end user, they help developers organize their work by allowing them to understand an application’s context and who will be using it.
 
-## Getting Started
+### Acceptance Criteria
 
-To view the code base navigate to TODO _insert gitHub location here_
-To view the web page navigate to TODO _insert url here_
+Acceptance criteria are the requirements that must be met to complete a user story. They define the boundaries of the user story and are used to confirm when a story is completed.
 
-## Review
+These criteria can be thought of as instructions for how you should complete a homework assignment. As you plan how to build the application, use them to structure your pages and pseudocode your logic. As you’re working, look back at the list of acceptance criteria to make sure you’ve met all of them. An application is complete only when it meets all of these criteria.
 
-You are required to submit the following for review:
+### Review
+
+In the real world, when a developer finishes working on an issue, another developer reviews the code, providing feedback on errors and making sure that all of the acceptance criteria have been met. For the homework assignments, your TAs will serve as your reviewers.
+
+To submit your application for review, you are required to provide the following:
 
 * The URL of the deployed application.
 
-* The URL of the GitHub repository, with a unique name and a README that describes the project.
+* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
 ---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
